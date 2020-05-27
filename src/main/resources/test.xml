@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+
+
+    <httpSample ulp__avg__manifest__time="" ulp__avg__chunk__time="" ulp__hits="" ulp__dwn__time="" ulp__lag__ratio=""
+                ulp__play__time="" ulp__lag__time="" ulp__buffer__fill="" sby="128" by="161580" dt="text" rm="OK"
+                rc="200" lb="Open first page" s="true" ts="1589818402430" ct="16" lt="277" it="0" t="280">
+
+        <java.net.URL>http://127.0.0.1:2224/index.php</java.net.URL>
+
+    </httpSample>
+
+    <httpSample ulp__avg__manifest__time="" ulp__avg__chunk__time="" ulp__hits="" ulp__dwn__time="" ulp__lag__ratio=""
+                ulp__play__time="" ulp__lag__time="" ulp__buffer__fill="" sby="232" by="177659" dt="text" rm="OK"
+                rc="200" lb="Log out-1" s="true" ts="1589818402370" ct="0" lt="634" it="0" t="640">
+
+        <java.net.URL>http://127.0.0.1:2224/</java.net.URL>
+
+    </httpSample>
+
+    <httpSample ulp__avg__manifest__time="" ulp__avg__chunk__time="" ulp__hits="" ulp__dwn__time="" ulp__lag__ratio=""
+                ulp__play__time="" ulp__lag__time="" ulp__buffer__fill="" sby="232" by="177659" dt="text" rm="OK"
+                rc="200" lb="Log out-1" s="true" ts="1589818402627" ct="0" lt="200" it="0" t="640">
+
+        <java.net.URL>http://127.0.0.1:2224/</java.net.URL>
+
+    </httpSample>
+
+    <httpSample ulp__avg__manifest__time="" ulp__avg__chunk__time="" ulp__hits="" ulp__dwn__time="" ulp__lag__ratio=""
+                ulp__play__time="" ulp__lag__time="" ulp__buffer__fill="" sby="232" by="177659" dt="text" rm="OK"
+                rc="200" lb="Log out-1" s="true" ts="1589818402920" ct="0" lt="300" it="0" t="640">
+
+        <java.net.URL>http://127.0.0.1:2224/</java.net.URL>
+
+    </httpSample>
+
+    <httpSample ulp__avg__manifest__time="" ulp__avg__chunk__time="" ulp__hits="" ulp__dwn__time="" ulp__lag__ratio=""
+                ulp__play__time="" ulp__lag__time="" ulp__buffer__fill="" sby="232" by="177659" dt="text" rm="OK"
+                rc="200" lb="Open first page" s="true" ts="1589818402850" ct="0" lt="800" it="0" t="640">
+
+        <java.net.URL>http://127.0.0.1:2224/</java.net.URL>
+
+    </httpSample>
+
+    <httpSample ulp__avg__manifest__time="" ulp__avg__chunk__time="" ulp__hits="" ulp__dwn__time="" ulp__lag__ratio=""
+                ulp__play__time="" ulp__lag__time="" ulp__buffer__fill="" sby="232" by="177659" dt="text" rm="OK"
+                rc="200" lb="Open first page" s="true" ts="1589818402720" ct="0" lt="350" it="0" t="640">
+
+        <java.net.URL>http://127.0.0.1:2224/</java.net.URL>
+
+    </httpSample>
+
+    <httpSample ulp__avg__manifest__time="" ulp__avg__chunk__time="" ulp__hits="" ulp__dwn__time="" ulp__lag__ratio=""
+                ulp__play__time="" ulp__lag__time="" ulp__buffer__fill="" sby="232" by="177659" dt="text" rm="OK"
+                rc="200" lb="Open first page" s="true" ts="1589818402550" ct="0" lt="600" it="0" t="640">
+
+        <java.net.URL>http://127.0.0.1:2224/</java.net.URL>
+
+    </httpSample>
+
+    <httpSample ulp__avg__manifest__time="" ulp__avg__chunk__time="" ulp__hits="" ulp__dwn__time="" ulp__lag__ratio=""
+                ulp__play__time="" ulp__lag__time="" ulp__buffer__fill="" sby="232" by="177659" dt="text" rm="OK"
+                rc="200" lb="Log out-1" s="true" ts="1589818402890" ct="0" lt="400" it="0" t="640">
+
+        <java.net.URL>http://127.0.0.1:2224/</java.net.URL>
+
+    </httpSample>
+
+    <java.net.URL>http://127.0.0.1:2224/</java.net.URL>
+
+</testResults>
+

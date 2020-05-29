@@ -59,10 +59,10 @@ public class SampleManager {
         }
         System.out.println("Total count of element that will be deleted " + countOfDelete);
         int worstSize = worstHttp.stream().filter(sample -> (sample.getLatency() >= maxLatency)).collect(Collectors.toList()).size();
-        double percentage =(double) worstSize/sizeAfterCutOff;
-        percentage = percentage*100;
-        System.out.println("Percent of worst samples bigger than max = "+percentage);
-        System.out.println("And size "+worstSize);
+        double percentage = (double) worstSize / sizeAfterCutOff;
+        percentage = percentage * 100;
+        System.out.println("Percent of worst samples bigger than max = " + percentage);
+        System.out.println("And size " + worstSize);
     }
 
     private void cutOffExcess(int second) {
@@ -137,7 +137,7 @@ public class SampleManager {
             bufferedWriter.write(result);
         }
         delays.sort(Integer::compareTo);
-        bufferedWriter.write("Max among all is : "+delays.get(delays.size()-1)+"\n");
+        bufferedWriter.write("Max among all is : " + delays.get(delays.size() - 1) + "\n");
         bufferedWriter.write("\n");
     }
 }

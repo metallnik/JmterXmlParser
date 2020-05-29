@@ -96,11 +96,10 @@ public class SampleManager {
     }
 
     private void separateSample() {
-        for (int i = 0; i < samples.size(); i++) {
-            HttpSample sample = samples.get(i);
+        samples.forEach(sample -> {
             String name = sample.getName();
             samplesMap.get(name).add(sample);
-        }
+        });
     }
 
     public void writeResultToFile(BufferedWriter bufferedWriter) throws IOException {
